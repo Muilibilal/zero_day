@@ -1,5 +1,7 @@
-Hello👋🏼
-I'm Bilal, A seasoned developer. I have few projects and currently I'm undergoing a SE course.
+## Hello👋🏼
+#### I'm Bilal, A seasoned developer. I have few projects and I'm currently undergoing a SE course.
+
+I'll be writing a few articles on some Js concepts which would be helpful to beginners
 
 **Article1: The difference between let and const in Javascript**
 
