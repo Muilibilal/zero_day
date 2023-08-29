@@ -5,7 +5,7 @@ I'll be writing a few articles on some Js concepts which would be helpful to beg
 
 **Article1: The difference between let and const in Javascript**
 
-![Let and const image](https://michelenasti.com/images/proxy.duckduckgo.com-3.jpeg) ("Let and const")
+![Let and const image gotten from google](https://michelenasti.com/images/proxy.duckduckgo.com-3.jpeg "Let and const image")
 
 In Javascript, `let` and `const` are both used to declare variables, but they have some key differences in terms of how they can be assigned and their mutability.
 
